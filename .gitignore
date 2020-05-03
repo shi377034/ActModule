@@ -1,0 +1,10 @@
+*.sln
+*.csproj
+*.vscode
+ActModule/Library
+ActModule/Temp
+ActModule/obj
+ActModule/UIElementsSchema
+ActModule/.vs
+*.user
+ActModule/Logs
